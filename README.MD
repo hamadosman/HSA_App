@@ -29,8 +29,9 @@ echo "[]" > database.json
 # 5. Run the app
 python app.py 
 
-'''
+```
 Open your browser at 👉 http://localhost:5000
+
 
 
 
