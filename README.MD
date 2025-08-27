@@ -41,3 +41,13 @@ Open your browser at 👉 http://localhost:5000
   - Allowed: doctor, prescription, dental, vision, therapy, lab
   - Denied if not in list or insufficient balance.
 - View Transaction History (date, type, amount, status).
+
+## Project Architecture
+Frontend (HTML + CSS templates)  
+↓  
+Flask Routes (app.py)  
+↓  
+Business Logic Functions  
+↓  
+JSON Storage (database.json)
+
