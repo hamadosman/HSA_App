@@ -1,4 +1,4 @@
-This is a simple web application that simulates the lifecycle of a Health Savings account or HSA for short. 
+This is a simple web application that simulates the lifecycle of a Health Savings Account or HSA for short. 
 
 ---
 
@@ -50,4 +50,5 @@ Flask Routes (app.py)
 Business Logic Functions  
 ↓  
 JSON Storage (database.json)
+
 
