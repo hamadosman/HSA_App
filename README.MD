@@ -13,8 +13,8 @@ This is a simple web application that simulates the lifecycle of a Health Saving
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/<your-username>/HSA_Demo.git
-cd HSA_Demo
+git clone https://github.com/hamadosman/HSA_App.git
+cd HSA_App
 
 # 2. (optional) create virtual environment
 python3 -m venv .venv
@@ -50,5 +50,6 @@ Flask Routes (app.py)
 Business Logic Functions  
 ↓  
 JSON Storage (database.json)
+
 
 
