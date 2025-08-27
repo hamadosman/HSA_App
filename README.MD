@@ -27,7 +27,9 @@ pip install -r requirements.txt
 echo "[]" > database.json
 
 # 5. Run the app
-python app.py
+python app.py '''
 
-Open your browser at 👉 http://localhost:5000
+
+##Open your browser at 👉 http://localhost:5000
+
 
