@@ -32,7 +32,12 @@ python app.py
 ```
 Open your browser at 👉 http://localhost:5000
 
-
-
-
-
+## How to Use
+- Create Account with name + email (email must be unique).
+- Open Account again later using your email.
+- Deposit Funds into your HSA.
+- Issue Card to get a virtual debit card number.
+- Validate Transaction by entering amount + expense type:
+  - Allowed: doctor, prescription, dental, vision, therapy, lab
+  - Denied if not in list or insufficient balance.
+- View Transaction History (date, type, amount, status).
